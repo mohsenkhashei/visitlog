@@ -1,0 +1,21 @@
+{
+    "name": "mohsenkhashei/yii2-visitlog",
+    "description": "logging page visit of users ",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","visitlog"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "mohsen khashei",
+            "email": "m.khasheii@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "mohsenkhashei\\visitlog\\": ""
+        }
+    }
+}
